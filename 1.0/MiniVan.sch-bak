@@ -2602,15 +2602,15 @@ Text GLabel 2150 5450 2    50   Input ~ 0
 row-C3
 Text GLabel 2150 5350 2    50   Input ~ 0
 row-C4
-Text GLabel 750  3500 0    50   Input ~ 0
+Text GLabel 750  3900 0    50   Input ~ 0
 row-B0
-Text GLabel 750  3600 0    50   Input ~ 0
+Text GLabel 750  3800 0    50   Input ~ 0
 row-B1
 Text GLabel 750  3700 0    50   Input ~ 0
 row-B2
-Text GLabel 750  3800 0    50   Input ~ 0
+Text GLabel 750  3600 0    50   Input ~ 0
 row-B3
-Text GLabel 750  3900 0    50   Input ~ 0
+Text GLabel 750  3500 0    50   Input ~ 0
 row-B4
 Text GLabel 2150 1950 2    50   Input ~ 0
 row-A0
